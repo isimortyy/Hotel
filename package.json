@@ -11,8 +11,10 @@
   "dependencies": {
     "@quasar/extras": "^1.16.11",
     "bootstrap": "^5.3.3",
+    "leaflet": "^1.9.4",
     "quasar": "^2.16.4",
     "vue": "^3.4.21",
+    "vue-leaflet": "^0.1.0",
     "vue-router": "^4.3.3"
   },
   "devDependencies": {
