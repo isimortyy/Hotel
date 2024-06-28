@@ -369,7 +369,7 @@ h1 {
   bottom: 0;
   right: 0;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("imagenes/fondo2.jpeg");
+    url("/imagenes/fondo2.jpeg");
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
